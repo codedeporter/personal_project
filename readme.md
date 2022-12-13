@@ -6,6 +6,8 @@ This application aims to provide safe access to allies.
 
 Incomplete.  This project is currently in development.  Users can find verified participants willing to interact with User at prescribed time of day.  Structure & functionality are in progress.
 
+https://docs.google.com/document/d/13iWxz5z80EE2VZap5M5L1tZ21wr7goPGmp8SF01Q_Jo/edit?usp=sharing
+
 # My Lil Buddy Demo
 
 # My Lil Buddy Screen Shots
