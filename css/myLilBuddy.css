@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#main video {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    width: 50%;
+    height: 80%;
+    object-fit: cover;
+    z-index: -50;
+}
+
+
+.main-text {
+    padding-top: 750px;
+    padding-left: 200px;
+    display: flex;
+    justify-content:space-around;
+    color: white;
+}
